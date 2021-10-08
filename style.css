@@ -14,18 +14,21 @@
 }
 
 .homepage-bg-img{
-    background-image: url("./images/cable-6.jpg");
+    background-image: url("./images/bg-img.jpg");
 }
 
 .homepage-heading{
     font-family: 'Birthstone', cursive;
     font-size: 5rem;
-   color: #fd7e14;
-    font-weight: 700;  
+    font-weight: 700; 
+    padding-top: 5rem;
+}
+
+.section-2{
+    padding-top: 5rem;
 }
 
 .homepage-heading-2{
-    color: #fd7e14;
     font-weight: 700;
 }
 
