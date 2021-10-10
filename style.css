@@ -10,7 +10,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 600px;
+    height: 450px;
 }
 
 .homepage-bg-img{
@@ -21,7 +21,7 @@
     font-family: 'Birthstone', cursive;
     font-size: 5rem;
     font-weight: 700; 
-    padding-top: 5rem;
+    padding-top: 3rem;
 }
 
 .section-2{
